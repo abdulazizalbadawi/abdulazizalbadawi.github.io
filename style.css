@@ -216,6 +216,8 @@ nav p{
 
 .sec2-right img{
     width: 100%;
+    box-shadow: 0px 0px 50px rgba(0, 0, 0, 0.16);
+    border-radius: 15px;
     height: 100%;
 }
 
